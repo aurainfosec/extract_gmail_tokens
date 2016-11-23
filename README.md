@@ -11,8 +11,11 @@ Requires Ruby + RubyGems
 ruby read.rb
 
 `Enter username: email@gmail.com`
+
 `Enter password: `
+
 `Enter subject of the emails you want to find: Reset Password`
+
 `Enter the regex of the string you want to match in the emails: https:\/\/www\.domain\.com\/reset\/(.*)`
 
  ## Contributing
